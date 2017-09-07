@@ -96,15 +96,6 @@ https://git.io/ogatea2<br/>
 https://git.io/vQowA<br/>
 国内浏览器会干扰屏蔽，监控隐私，建议卸载<br/>
 ◆全球热门免费VPN：<br/>
-自由门安卓版 https://git.io/fgma <broGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
-<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-◆翻墙最佳浏览器：谷歌浏览器大全<br/>
-https://git.io/vQowA<br/>
-国内浏览器会干扰屏蔽，监控隐私，建议卸载<br/>
-◆全球热门免费VPN：<br/>
 自由门安卓版 https://git.io/fgma <br/>
 自由门电脑版 https://git.io/fgp <br/>
 无界安卓版 https://git.io/v6836 <br/>
