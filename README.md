@@ -49,20 +49,12 @@ https://github.com/ogate2/ogate<br/>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel-tt">入口</a>
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=wnel-tt">入口</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel-tt">入口</a><br/>
-微信如果提示：停止访问该网页<br/>
-请点击右上角，选择浏览器打开<br/>
-苹果用户复制到自带浏览器打开<br/>
-  </tr>
-    <tr>from=wnel">入口</a>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel-tt">入口</a><br/>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel-tt">入口</a>
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=wnel-tt">入口</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel-tt">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
-苹果用户复制到自带浏览器打开<br/>
-  </tr>
-  <tr>br/>
 苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
