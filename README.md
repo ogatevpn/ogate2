@@ -3,7 +3,7 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
   </tr>
   <tr>
-<td align=left>本页短网址：https://git.io/vQogU<br/>
+<td align=left>本页短网址：https://git.io/v5wJC<br/>
 ❤翻墙永久网址：https://git.io/ogate2 <br/>
 https://github.com/ogate2/ogate<br/>
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
@@ -40,21 +40,21 @@ https://github.com/ogate2/ogate<br/>
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=wnel-tt">入口</a>
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=wnel-tt">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel-tt">入口</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel-tt">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel-tt">入口</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel-tt">入口</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel-tt">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=wnel-tt">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel-tt">入口</a><br/>
+ <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=wnel-tt">入口</a>
+ <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=wnel-tt">入口</a>
+ <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel-tt">入口</a><br/>
+ <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel-tt">入口</a>
+ <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel-tt">入口</a>
+ <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel-tt">入口</a><br/>
+ <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel-tt">入口</a>
+ <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=wnel-tt">入口</a>
+ <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel-tt">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
-      <td align=center>
+<td align=center>
 2017年网民翻墙最人气软件<br/>
 https://git.io/ogatea2<br/>
 下载网门安卓版更快更方便<br/>
