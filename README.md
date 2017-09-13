@@ -121,7 +121,7 @@ II更多翻墙大全 https://git.io/jww<br/>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览请卸载<br/>
-https://git.io/free 动态网<br/>
+https://git.io/free99 动态网<br/>
 https://git.io/jww 禁闻网<br/>
 https://git.io/freesky 自由天空<br/>
 https://git.io/osurf 翻墙部落<br/>
